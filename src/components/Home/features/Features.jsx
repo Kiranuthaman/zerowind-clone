@@ -1,6 +1,6 @@
 import React from "react";
-import Relife from "./Features/Relife";
-import Zwr from "./Features/Zwr";
+import Relife from "./Relife";
+import Zwr from "./Zwr";
 
 function Features() {
   return (

@@ -5,7 +5,7 @@ import HeroBanner from "../components/Home/HeroBanner";
 import Technologies from "../components/Home/Technologies";
 import About from "../components/Home/About";
 import Contact from "../components/Home/Contact";
-import Features from "../components/Home/Features";
+import Features from "../components/Home/features/Features";
 import CustomCursor from "../components/CustomCursor";
 import Product from "../components/Product";
 import { ParallaxProvider } from "react-scroll-parallax";
